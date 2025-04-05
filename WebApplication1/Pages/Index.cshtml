@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h3>Music List</h3>
+
+    <MusicCard MusicName="Song 1" />
+    <MusicCard MusicName="Song 2" />
+    <MusicCard MusicName="Song 3" />
+</div>
+
+<MusicCard MusicName="Song 1" />
+<MusicCard MusicName="Song 2" />
+<MusicCard MusicName="Song 3" />

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\webapplication1\\pages\\musiccard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\musiccard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\webapplication1\\pages\\gamecard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\gamecard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\webapplication1\\pages\\createrule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51DB86AB-FE14-4D5A-A75D-FFB933037F04}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\createrule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\data\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\data\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\data\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\data\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\data\\mock\\databuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\data\\mock\\databuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|d:\\workflow\\poc_bt\\florian\\webapplication1\\api\\data\\mock\\musicdtobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B98E2E5-A15A-4A62-A73A-EC527779E032}|API\\API.csproj|solutionrelative:api\\data\\mock\\musicdtobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:17:18.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T15:13:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCard.razor",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\GameCard.razor",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\GameCard.razor",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\GameCard.razor",
+              "RelativeToolTip": "WebApplication1\\Pages\\GameCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T15:12:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicCard.razor",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\MusicCard.razor",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\MusicCard.razor",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\MusicCard.razor",
+              "RelativeToolTip": "WebApplication1\\Pages\\MusicCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T15:12:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRule.razor",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\CreateRule.razor",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\CreateRule.razor",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\WebApplication1\\Pages\\CreateRule.razor",
+              "RelativeToolTip": "WebApplication1\\Pages\\CreateRule.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T15:12:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:03:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterDTO.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\DTO\\FilterDTO.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DTO\\FilterDTO.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\DTO\\FilterDTO.cs",
+              "RelativeToolTip": "API\\Data\\DTO\\FilterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:36:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\MusicController.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "API\\Controllers\\MusicController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:26:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBuilder.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\Mock\\DataBuilder.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Mock\\DataBuilder.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\Mock\\DataBuilder.cs",
+              "RelativeToolTip": "API\\Data\\Mock\\DataBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:24:20.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:06:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T13:03:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicDTO.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\DTO\\MusicDTO.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DTO\\MusicDTO.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\DTO\\MusicDTO.cs",
+              "RelativeToolTip": "API\\Data\\DTO\\MusicDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:51:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicDTOBuilder.cs",
+              "DocumentMoniker": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\Mock\\MusicDTOBuilder.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Mock\\MusicDTOBuilder.cs",
+              "ToolTip": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\Data\\Mock\\MusicDTOBuilder.cs",
+              "RelativeToolTip": "API\\Data\\Mock\\MusicDTOBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:58:29.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
