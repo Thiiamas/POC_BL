@@ -1,0 +1,35 @@
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.home-container h1 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.home-container p {
+    color: #666;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.placeholder {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+}
+
+.placeholder h2 {
+    color: #444;
+    margin-bottom: 1rem;
+}
+
+.placeholder p {
+    color: #666;
+    margin-bottom: 0;
+}

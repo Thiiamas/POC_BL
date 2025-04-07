@@ -447,19 +447,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Florian\\.nuget\\packages\\": {}
+    "C:\\Users\\fkuhl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\API.csproj",
+      "projectUniqueName": "C:\\Workspace\\POC_BL\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Florian\\.nuget\\packages\\",
-      "outputPath": "D:\\Workflow\\POC_BT\\Florian\\WebApplication1\\API\\obj\\",
+      "projectPath": "C:\\Workspace\\POC_BL\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\fkuhl\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\POC_BL\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Florian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fkuhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -467,7 +467,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -480,11 +479,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -515,7 +509,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

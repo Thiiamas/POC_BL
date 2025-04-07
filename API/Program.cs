@@ -10,6 +10,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<DataBuilder>();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("ReactAppPolicy",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:3000")
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
 var app = builder.Build();
 
 
@@ -26,5 +36,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseCors("ReactAppPolicy");
 
 app.Run();
